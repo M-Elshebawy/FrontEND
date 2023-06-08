@@ -1,0 +1,37 @@
+.in{
+   
+    text-align: center;
+
+    
+}
+.loginimg{
+    /* position: absolute; */
+ margin-top: 2%;
+    /* margin-left: 28%; */
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 25px;
+    height: 80%;
+    width: 40%;
+}
+body{
+    background-color: cadetblue;
+}
+.oo{
+ position: fixed;
+ top: 30%;
+ margin-right: 3%;
+ background-color: cadetblue;
+ height: 30%;
+ width: 100%;
+ text-align: center;
+}
+.text1{
+margin-top: 4%;
+}
+.load{
+    color: black;
+    background-color:wheat;
+    width: 10%;
+    height: 10%;
+}

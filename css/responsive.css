@@ -1,0 +1,88 @@
+@media (max-width:1280px){
+	.contener{
+		width: 91%;
+	}
+
+	.mainchart{
+		width: 32%;
+		margin-right: 65%;
+		margin-top: 1%;
+	}
+}
+@media (max-width:1128px){
+	.contener{
+		width: 90%;
+	}
+	
+	.sub-menu{
+		margin-right: 1%;
+		width: 10%;
+	}
+
+	.user{
+		margin-top: 60%;
+	}
+	
+	.list{
+		margin-top: 2%;
+	}
+
+	.mainchart{
+		width: 35%;
+	}
+	.company_name{
+		width: 50%;
+		margin-top: 0%;
+	}
+
+}
+
+@media (max-width:1024px){
+	.contener{
+		width: 89%;
+	}
+	
+	.sub-menu{
+		margin-right: 2%;
+		width: 12%;
+	}
+	.carousel{
+		width: 95%;
+		/* margin-top: 1%; */
+	}
+
+	.list{
+		width: 90%;
+		margin-right: 5%;
+
+		/* margin-top: 2%; */
+	}
+
+	.mainchart{
+		display: none;
+	}
+	.progress{
+		display: none;
+	}	
+	.company_name {
+		margin-right: 23%;
+	}
+	.text {
+		display: none;
+	}
+}
+
+@media (max-width:800px){
+	.contener{
+		width: 86%;
+	}
+
+	.company_name{
+		margin-top: 1%;
+	}
+	.list{
+		margin-top: 3%;
+		margin-right: 3%;
+	}
+}
+
